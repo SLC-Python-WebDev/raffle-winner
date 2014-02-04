@@ -1,1 +1,4 @@
 meetup.key
+*.pyc
+*.swp
+
